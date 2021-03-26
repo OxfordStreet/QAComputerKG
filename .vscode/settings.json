@@ -1,0 +1,52 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "C:\\Program Files\\Python36\\python.exe",
+        // 
+    "editor.cursorStyle": "line-thin",
+    "editor.fontFamily": "'SF Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.fontWeight": "500",
+    "editor.lineHeight": 17,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.lineHeight": 1.23,
+    "editor.minimap.enabled": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.overviewRulerBorder": false,
+    "editor.renderIndentGuides": true,
+    "editor.renderLineHighlight": "all",
+    "workbench.activityBar.visible": true,
+    "workbench.editor.tabCloseButton": "left",
+    "workbench.editor.showIcons": false,
+    "window.nativeTabs": true,
+    "editor.tokenColorCustomizations": {
+        "[Xcode Partial (Light)]": {
+        "textMateRules": [
+            {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#536579",
+                "fontStyle": "italic"
+            }
+            }
+        ]
+        },
+        "[Xcode Partial (Dark)]": {
+        "textMateRules": [
+            {
+            "scope": "source",
+            "settings": {
+                "foreground": "#D4D4D4"
+            }
+            },
+            {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#6C7986",
+                "fontStyle": "italic"
+            }
+            }
+        ]
+        }
+    }
+}
